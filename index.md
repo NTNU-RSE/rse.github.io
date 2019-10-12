@@ -1,4 +1,3 @@
-
 # NTNU Research Software Engineers Community
 
 We bring together the community of people writing and contributing to research
