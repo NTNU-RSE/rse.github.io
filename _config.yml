@@ -1,0 +1,11 @@
+title: NTNU RSE
+
+description: >
+    We bring together the community of people writing and contributing to
+    research software from NTNU to share knowledge, to organize meetings, and raise
+    awareness for the scientific recognition of research software.
+
+theme: minima
+
+plugins:
+  - jekyll-redirect-from
