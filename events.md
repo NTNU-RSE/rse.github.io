@@ -1,9 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
 ## Monthly Meetings
 
 We are meeting once a month at [Mimes Brønn](
@@ -17,7 +11,7 @@ https://use.mazemap.com/#v=1&zlevel=2&center=10.408347,63.416064&zoom=18.5&share
 | 11. March 2020 11.00 - 12.00 | TBA | Haagen Waade, Simon Ball |
 | 12. May 2020 11.00 - 12.00 | Modern web development in Javascript (not for JS hipsters) | Per Bjarne Løvsletten |
 | 10. June 2020 11.00 - 12.00 | Getting ready for summer | many of us |
-{: .tablelines}
+
 
 ###2019
 |Date|Topic|Presenter|
@@ -26,4 +20,4 @@ https://use.mazemap.com/#v=1&zlevel=2&center=10.408347,63.416064&zoom=18.5&share
 |26. September 2019|NTNU OpenStack|Bjarne S. Næss|
 |7. October 2019|RSE2019 Int. Conference recap|Anders Christensen, Nico Reissman|
 |25. November 2019|Ansible intro|Oystein Viggen|
-{: .tablelines}
+
