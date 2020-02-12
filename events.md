@@ -39,30 +39,30 @@ https://use.mazemap.com/#v=1&zlevel=2&center=10.408347,63.416064&zoom=18.5&share
 
 
 <h3>2019</h3>
-    <table>
-        <tr>
-            <th>Date</th>
-            <th>Topic</th>
-            <th>Presenter</th>
-        </tr>
-        <tr>
-            <td>28. March 2019</td>
-            <td>Docker intro</td>
-            <td>Tore W. Hermansen</td>
-        </tr>
-        <tr>
-            <td>26. September 2019</td>
-            <td>NTNU OpenStack</td>
-            <td>Bjarne S. Næss</td>
-        </tr>
-        <tr>
-            <td>7. October 2019</td>
-            <td>RSE2019 Int. Conference recap</td>
-            <td>Anders Christensen, Nico Reissman</td>
-        </tr>
-        <tr>
-            <td>25. November 2019</td>
-            <td>Ansible intro</td>
-            <td>Oystein Viggen</td>
-        </tr>
-    </table>
+<table class="w3-table-all">
+    <tr>
+        <th>Date</th>
+        <th>Topic</th>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>28. March 2019</td>
+        <td>Docker intro</td>
+        <td>Tore W. Hermansen</td>
+    </tr>
+    <tr>
+        <td>26. September 2019</td>
+        <td>NTNU OpenStack</td>
+        <td>Bjarne S. Næss</td>
+    </tr>
+    <tr>
+        <td>7. October 2019</td>
+        <td>RSE2019 Int. Conference recap</td>
+        <td>Anders Christensen, Nico Reissman</td>
+    </tr>
+    <tr>
+        <td>25. November 2019</td>
+        <td>Ansible intro</td>
+        <td>Oystein Viggen</td>
+    </tr>
+</table>
