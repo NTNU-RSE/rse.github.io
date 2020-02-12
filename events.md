@@ -3,7 +3,7 @@
 We are meeting once a month at [Mimes Brønn](
 https://use.mazemap.com/#v=1&zlevel=2&center=10.408347,63.416064&zoom=18.5&sharepoitype=poi&sharepoi=79904&campusid=1&utm_medium=shorturl)
 
-###2020
+### 2020
 | Date | Topic | Presenter |
 |----|-----|---------|
 | January | Recap of 2019 and planning 2020 | many of us |
@@ -13,7 +13,7 @@ https://use.mazemap.com/#v=1&zlevel=2&center=10.408347,63.416064&zoom=18.5&share
 | 10. June 2020 11.00 - 12.00 | Getting ready for summer | many of us |
 
 
-###2019
+### 2019
 |Date|Topic|Presenter|
 |----|-----|---------|
 |28. March 2019|Docker intro|Tore W. Hermansen|
