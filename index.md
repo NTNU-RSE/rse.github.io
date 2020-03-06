@@ -1,5 +1,3 @@
-# NTNU Research Software Engineers Community
-
 We bring together the community of people writing and contributing to research
 software at NTNU to share knowledge, to organize meetings, and raise awareness for
 the scientific recognition of research software. This initiative is following
